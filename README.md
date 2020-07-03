@@ -14,6 +14,5 @@
 
 ### SCREENSHOTS:
 
-![](/Screenshots/ss1.jpg)
+![](/Screenshots/ss1.jpg)     ![](/Screenshots/ss2.jpg)
 
-![](/Screenshots/ss2.jpg)
